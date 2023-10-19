@@ -5,10 +5,10 @@ Investing fields concerned with stock selection will gain a great deal of insigh
 
 Models ::
 LM-BERT
-> scholarly360/Indian-Annual-Report-LM-Bert
+> [scholarlyhttps://huggingface.co/scholarly360Indian-Annual-Report-LM-Bert
 
 LM-ROBERTA
-> scholarly360/Indian-Annual-Report-LM-Roberta
+> https://huggingface.co/scholarly360/Indian-Annual-Report-LM-Roberta
 
 SBERT-BERT
 > https://huggingface.co/scholarly360/Indian-Annual-Report-SBERT-Bert
@@ -17,7 +17,5 @@ SBERT-ROBERTA
 > https://huggingface.co/scholarly360/Indian-Annual-Report-SBERT-Roberta
 
 First Submittion At : https://scrs.in/conference/icsiscet2023/page/call_for_papers
-
-[comment]: <> (Pre-Print DOI : [10.5281/zenodo.7536366](https://zenodo.org/record/7536366))
 
 Dataset   DOI : [10.5281/zenodo.7536332](https://zenodo.org/record/7536332)
