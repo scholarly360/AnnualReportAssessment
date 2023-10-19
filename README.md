@@ -6,7 +6,7 @@ Investing fields concerned with stock selection will gain a great deal of insigh
 Models ::
 
 LM-BERT
-> https://huggingface.co/scholarly360Indian-Annual-Report-LM-Bert
+> https://huggingface.co/scholarly360/Indian-Annual-Report-LM-Bert
 
 LM-ROBERTA
 > https://huggingface.co/scholarly360/Indian-Annual-Report-LM-Roberta
