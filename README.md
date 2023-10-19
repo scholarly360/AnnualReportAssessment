@@ -4,6 +4,7 @@ Annual Report Assessment Using Large Language Models
 Investing fields concerned with stock selection will gain a great deal of insight if they can locate meaningful and relevant information in the entire corpus of annual reports, particularly regarding qualitative aspects of the underlying business. The author of this study assessed Bert and Roberta, two pre-trained language models for this job, and refined their performance on annual reports. Using sentence transformers for classification, the author investigated zero-shot learning and few-shot learning. The results of the improved language models and the addition of more classifiers are encouraging, and they will help financial analysts use them in managing portfolios and making investment decisions.
 
 Models ::
+
 LM-BERT
 > https://huggingface.co/scholarly360Indian-Annual-Report-LM-Bert
 
