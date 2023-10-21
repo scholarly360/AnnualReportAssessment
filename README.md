@@ -17,6 +17,6 @@ SBERT-BERT
 SBERT-ROBERTA
 > https://huggingface.co/scholarly360/Indian-Annual-Report-SBERT-Roberta
 
-First Submittion At : https://scrs.in/conference/icsiscet2023/page/call_for_papers
+First Submission At : https://scrs.in/conference/icsiscet2023/page/call_for_papers
 
 Dataset   DOI : [10.5281/zenodo.7536332](https://zenodo.org/record/7536332)
